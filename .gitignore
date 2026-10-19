@@ -1,0 +1,14 @@
+.DS_Store
+Thumbs.db
+.env
+.env.*
+*.HEIC
+*.heic
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.mp4
+*.mov
+private/
+originals/
