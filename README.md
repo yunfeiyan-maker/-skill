@@ -1,4 +1,4 @@
-![Lean Muscle Photo Glow-Up · 薄肌感男生修图 Skill](docs/assets/brand/lean-muscle-photo-glow-up.svg)
+![Lean Muscle Photo Glow-Up · 薄肌感男生修图 Skill](docs/assets/brand/lean-muscle-photo-glow-up-cover.png)
 
 # 薄肌感男生修图 Skill
 

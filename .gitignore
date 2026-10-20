@@ -12,3 +12,6 @@ Thumbs.db
 *.mov
 private/
 originals/
+
+# Approved public cover artwork
+!docs/assets/brand/lean-muscle-photo-glow-up-cover.png
