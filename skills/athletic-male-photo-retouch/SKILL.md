@@ -1,12 +1,14 @@
 ---
 name: athletic-male-photo-retouch
-description: 当用户上传成年男性健身、穿搭或日常人像，要求修图、健体塑形、面部优化、撑衣感、真实摄影质感，或要求对同一照片局部返修时使用。按输入照片和用户锁定项执行；首次编辑就兼顾肌肉表现、自然美化与活人感。
+description: 薄肌感男生修图（Lean Muscle Photo Glow-Up）。当用户上传成年男性健身、穿搭或日常人像，要求修图、健体塑形、面部优化、撑衣感、真实摄影质感，或要求对同一照片局部返修时使用。按输入照片和用户锁定项执行；首次编辑就兼顾肌肉表现、自然美化与活人感。
 metadata:
   version: "1.4.0"
   status: "rules-only"
 ---
 
-# 运动男子健体修图
+# 薄肌感男生修图 Skill
+
+**Lean Muscle Photo Glow-Up**
 
 ## 目标与优先级
 
