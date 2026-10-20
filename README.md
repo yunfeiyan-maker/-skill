@@ -6,7 +6,7 @@
 
 为男生日常照、健身照和穿搭照提供可执行的 AI 修图规则。协调胸肩臂与整体比例，自然改善面部状态，保留本人特征、真实肤质和原片摄影感。
 
-**规则版本 1.4.0** · **Markdown Agent Skill** · **15 组前后对照**
+**规则版本 1.4.0** · **Markdown Agent Skill** · **14 组前后对照**
 
 [快速开始](#快速开始) · [案例展示](docs/CASES.md) · [完整规则](skills/athletic-male-photo-retouch/SKILL.md) · [提示词](docs/prompts.md) · [更新记录](CHANGELOG.md)
 
@@ -82,10 +82,6 @@ athletic-male-photo-retouch/
 | 案例13 原图 | 案例13 修图后 | 案例14 原图 | 案例14 修图后 |
 | --- | --- | --- | --- |
 | <img src="docs/assets/案例参考/案例13-前.jpg" alt="案例13原图" width="180"> | <img src="docs/assets/案例参考/案例13-后.jpg" alt="案例13修图后" width="180"> | <img src="docs/assets/案例参考/案例14-前.jpg" alt="案例14原图" width="180"> | <img src="docs/assets/案例参考/案例14-后.jpg" alt="案例14修图后" width="180"> |
-
-| 案例15 原图 | 案例15 修图后 |  |  |
-| --- | --- | --- | --- |
-| <img src="docs/assets/案例参考/案例15-前.jpg" alt="案例15原图" width="180"> | <img src="docs/assets/案例参考/案例15-后.jpg" alt="案例15修图后" width="180"> |  |  |
 
 [查看独立案例页与图片来源](docs/CASES.md)
 
